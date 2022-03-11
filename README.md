@@ -10,6 +10,10 @@ O projeto consiste numa plataforma de vendas online por navegador focada na comp
 
 # Instruções de uso:
 
+# Desenvolvimento:
+
+Foi utilizada a linguágem Java com Spring Boot para o backend e para o frontend utilizamos Html com Css e Javascript, utilizando também da biblioteca React.
+
 # Desenvolvedores:
 
 1. Guilherme Augusto
