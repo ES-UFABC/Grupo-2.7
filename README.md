@@ -1,8 +1,20 @@
 # Grupo 21 - Agricultura Familiar
 
-1. Thais Durynek
-1. Stephania Ferreira
-1. Lucas Guimarães Miranda
-1. Leonardo Barroca
-1. Tiago Luiz Pereira
+
+
+# Sobre o projeto
+
+O projeto consiste numa plataforma de vendas online por navegador focada na compra e venda de produtos agrícolas de pequenos produtores de forma fácil e prática, facilitando o contato entre o agricultor e o consumidor final.
+
+# Funcionalidades:
+
+# Instruções de uso:
+
+# Desenvolvedores:
+
 1. Guilherme Augusto
+2. Leonardo Barroca
+3. Lucas Guimarães Miranda
+4. Stephania Ferreira
+5. Thais Durynek
+6. Tiago Luiz Pereira
