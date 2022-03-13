@@ -6,15 +6,15 @@
 
 O projeto consiste numa plataforma de vendas online por navegador focada na compra e venda de produtos agrícolas de pequenos produtores de forma fácil e prática, facilitando o contato entre o agricultor e o consumidor final.
 
-# Funcionalidades:
+# Funcionalidades
 
-# Instruções de uso:
+# Instruções de uso
 
-# Desenvolvimento:
+# Desenvolvimento
 
-Foi utilizada a linguágem Java com Spring Boot para o backend e para o frontend utilizamos Html com Css e Javascript, utilizando também da biblioteca React.
+Foi utilizada a linguágem Java com Spring Framework e Spring Boot para o backend e para o frontend utilizamos Html com Css e Javascript, utilizando também da biblioteca React.
 
-# Desenvolvedores:
+# Desenvolvedores
 
 1. Guilherme Augusto
 2. Leonardo Barroca
@@ -22,3 +22,7 @@ Foi utilizada a linguágem Java com Spring Boot para o backend e para o frontend
 4. Stephania Ferreira
 5. Thais Durynek
 6. Tiago Luiz Pereira
+
+# Licença
+
+MIT License
